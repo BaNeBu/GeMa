@@ -1,0 +1,167 @@
+html,
+body {
+  height: 100%;
+  color: rgb(146, 146, 146);
+  background-color: #f8f8f8;
+  font-family: Liberation sans, Arial;
+}
+
+.tile {
+	background-color: #fff;
+  padding: 20px;
+  border: 1px solid rgb(221, 221, 221);
+  border-radius: 25px;						
+}
+
+h1 {
+   font-size: 14px;
+	 display: inline;
+}
+
+h3 {
+	 margin-top: 0px;
+}
+
+.btn-primary {
+  background-color: #000099;
+}
+
+.form-control:focus {
+  border-color: #000099;
+}
+
+.panel {
+  margin-bottom: 0px;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.tile h3 {
+  color: #000099;
+}
+
+.tile.customer {
+  min-height: 250px;
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Navigation bar */
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar-brand {
+  font-size: 36px;
+	font-weight: bold;
+}
+
+.navbar-brand span#first {
+  color: #000099;
+}
+
+.navbar-brand span#second {
+  color: #66ff33;
+}
+
+.navbar-right a {
+  color: #000099;
+		font-size: 18px;
+}
+
+.navbar-right a:hover,
+.navbar-right a:focus {
+  color: #66ff33;
+  background-color: #f8f8f8 !important;
+}
+
+.navbar-right a:active {
+  color: #000099;
+}
+
+.navbar .dropdown-menu a {
+  color: #000099;
+}
+
+.navbar .dropdown-menu a:hover {
+  color: #66ff33;
+}
+
+/* Breadcrump */
+
+.breadcrumb {
+  background-color: #66ff33;		
+}
+
+.breadcrumb a {
+  color: #000099;
+		font-weight: bold;
+}
+
+.breadcrumb>.active {
+  color: #000099;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+  height: 40%;
+  width: 962px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+#content .kop {
+  color: #000099;
+	font-weight: bold;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+
+.margintop10 {
+  margin-top: 10px;
+}
+
+.margintop20 {
+  margin-top: 20px;
+}

@@ -1,0 +1,34 @@
+Voertransport
+
+Een eenvoudig tot uitgebreid voersysteem.
+
+Project gerealiseerd in Nistelrode, gastel (Cranendonck), Namur (Belgie).
+Verschillende voersoorten kunnen restloos gevoerd worden.
+Ontwerp is door ons zelf bedacht en geimplementeerd.
+Restvoer gaat via de vijzel terug naar de bunkers waar het betreffende voer in opgeslagen zit.
+Systeem vervoert drie soorten voeders.
+
+Voerrobot
+
+Een sproeisysteem voor bijmengen van natte product bij ruwvoer.
+
+Project gerealiseerd in Heeze.
+Ook droogvoer wordt bijgemengd.
+Met valpijpen wordt voer toegevoegd.
+Systeem vervoert meerdere soorten voeders.
+
+Transportkar
+
+Hulpmiddel voor het plaatsen van betonelementen.
+
+Rooster
+
+Hulpmiddel voor het leggen van roosters in bestaande stallen.
+
+InrichtingStal
+
+Plaatsen van inrichting met bijbehorende waterleiding in stallen.
+
+Project gerealiseerd in diverse stallen.
+Kan zo uitgebreid worden zodat zo min mogelijk brak water in leiding blijft.
+Stallen zijn tevens voorzien van voersysteem.
